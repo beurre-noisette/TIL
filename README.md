@@ -9,4 +9,4 @@
 ---
 ## 천리길도 한 걸음부터
 * [마크다운 사용법익히기](https://www.markdowntutorial.com/kr/)
-* [레시피 정리로 알아보는 정리법](https://github.com/beurre-noisette/TIL/blob/main/Tasty%20experience/Chestnut%20Basque%20cheese%20cake)
+* [레시피 정리로 알아보는 정리법](https://github.com/beurre-noisette/TIL/blob/main/Tasty%20experience/Chestnut%20Basque%20cheese%20cake.md)
